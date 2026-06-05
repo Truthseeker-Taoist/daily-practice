@@ -2,7 +2,7 @@
 a=20
 b=15
 
-#注意测试关系运算
+#逐一测试关系运算
 print(a>b)
 print(a<n)
 print(a>=20)
